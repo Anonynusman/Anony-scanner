@@ -15,6 +15,6 @@ apt update && apt upgrade && apt install git && apt install python2 && git clone
 
 [+] Usage :-
 
-python2 tmscanner.py
+python2 anonscanner.py
 
 (select your option and use)😉
