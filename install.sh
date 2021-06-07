@@ -13,7 +13,7 @@ clear
 sleep 0.2
 echo ""
 echo ""
-echo "$green coded by @TechnicalMujeeb"
+echo "$green coded by @Anonynusman"
 echo ""
 sleep 1
 
@@ -75,7 +75,7 @@ sleep 1
 echo "installation Finished"
 echo ""
 sleep 1
-echo "$cyan python2 tmscanner.py"
+echo "$cyan python2 anonscanner.py"
 echo ""
 echo "-----------------------------------------"
 sleep 0.5
