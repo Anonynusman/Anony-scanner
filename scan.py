@@ -111,7 +111,7 @@ def vul_remed_info(v1,v2,v3):
 	print "\t"+bcolors.OKGREEN+str(tools_fix[v3-1][2])+bcolors.ENDC
 
 
-# Anony-scan Help Context
+# Anony-scanner Help Context
 def helper():
         print bcolors.OKBLUE+"Information:"+bcolors.ENDC
         print "------------"
@@ -141,7 +141,7 @@ def clear():
         sys.stdout.write("\033[F")
         sys.stdout.write("\033[K")
 
-#Anony-scan Logo
+#Anony-scanner Logo
 def logo():
 	print bcolors.WARNING
         print("""\
