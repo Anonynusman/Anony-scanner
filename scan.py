@@ -178,7 +178,7 @@ class Spinner:
                 sys.stdout.flush()
         except (KeyboardInterrupt, SystemExit):
             #clear()
-            print "\n\t"+ bcolors.BG_ERR_TXT+Anony-scan received a series of Ctrl+C hits. Quitting..." +bcolors.ENDC
+            print "\n\t"+ bcolors.BG_ERR_TXT+ Anony-scanner received a series of Ctrl+C hits. Quitting..." +bcolors.ENDC
             sys.exit(1)
 
     def start(self):
