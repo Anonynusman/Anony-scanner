@@ -722,7 +722,7 @@ else:
         cmd = 'sha1sum scan.py | grep .... | cut -c 1-40'
         oldversion_hash = subprocess.check_output(cmd, shell=True)
         oldversion_hash = oldversion_hash.strip()
-        os.system('wget -N https://raw.githubusercontent.com/Anonynusman//master/scan.py -O rapidscan.py > /dev/null 2>&1')
+        os.system('wget -N https://raw.githubusercontent.com/Anonynusman/Anony-scanner/main/scan.py -O scan.py > /dev/null 2>&1')
         newversion_hash = subprocess.check_output(cmd, shell=True)
         newversion_hash = newversion_hash.strip()
         if oldversion_hash == newversion_hash :
