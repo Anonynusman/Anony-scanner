@@ -1,9 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #               
-#
 #                🕊  🎀  𝒜𝓃😍𝓃𝓎𝓃𝓊𝓈𝓂𝒶𝓃  🎀  🕊 
-#
 #
 # Author	 : Osman Mohammed 
 # Tool 		 : Anonynusman
@@ -181,7 +179,7 @@ class Spinner:
                 sys.stdout.flush()
         except (KeyboardInterrupt, SystemExit):
             #clear()
-            print "\n\t"+ bcolors.BG_ERR_TXT+Anonyscanner received a series of Ctrl+C hits. Quitting..." +bcolors.ENDC
+            print "\n\t"+ bcolors.BG_ERR_TXT+"Anony-scanner received a series of Ctrl+C hits. Quitting..." +bcolors.ENDC
             sys.exit(1)
 
     def start(self):
