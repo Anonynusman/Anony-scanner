@@ -193,7 +193,7 @@ class Spinner:
             time.sleep(self.delay)
         except (KeyboardInterrupt, SystemExit):
             #clear()
-            print "\n\t"+ bcolors.BG_ERR_TXT+Anony-scan received a series of Ctrl+C hits. Quitting..." +bcolors.ENDC
+            print "\n\t"+ bcolors.BG_ERR_TXT+"Anonyscanner received a series of Ctrl+C hits. Quitting..." +bcolors.ENDC
             sys.exit(1)
 # End ofloader/spinner class
 
