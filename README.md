@@ -52,10 +52,3 @@ To run a scan for `example.com` the command below has to be run. After completio
 ```
 docker run -t --rm -v $(pwd)/reports:/reports kanolato/scan example.com
 ```
-
-## Help
-![Anony-scanner help](https://github.com/Anonynusman/Anony-scanner/blob/master/splashscreen_Anony-scanner_help.PNG)
-
-## Output
-![Anony-scanner intro](https://github.com/Anonynusman/Anony-scanner/blob/master/splashscreen_Anony-scanner_intro.PNG)
-![Anony-scanner outro](https://github.com/Anonynusman/Anony-scanner/blob/master/splashscreen_Anony-scanner_outro.PNG)
