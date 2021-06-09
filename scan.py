@@ -124,7 +124,7 @@ def helper():
         print bcolors.OKBLUE+"Interactive:"+bcolors.ENDC
         print "------------"
         print "\tCtrl+C: Skips current test."
-        print "\tCtrl+Z: Quits RapidScan."
+        print "\tCtrl+Z: Quits Anony-scanner."
         print bcolors.OKBLUE+"Legends:"+bcolors.ENDC
         print "--------"
         print "\t["+proc_high+"]: Scan process may take longer times (not predictable)."
