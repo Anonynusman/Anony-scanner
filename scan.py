@@ -150,10 +150,10 @@ def logo():
         print("""\
                                       
                                   """+bcolors.BADFAIL+" ●"+bcolors.WARNING+"""
-                                🕊  🎀  𝒜𝓃😍𝓃𝓎𝓃𝓊𝓈𝓂𝒶𝓃  🎀                                 
+                     🕊  🎀  𝒜𝓃😍𝓃𝓎𝓃𝓊𝓈𝓂𝒶𝓃  🎀                                 
           
-   ▄▀█ █▄░█ █▀█ █▄░█ █▄█ ▄▄ █▀ █▀▀ ▄▀█ █▄░█ █▄░█
-   █▀█ █░▀█ █▄█ █░▀█ ░█░ ░░ ▄█ █▄▄ █▀█ █░▀█ █░▀█ 
+      ▄▀█ █▄░█ █▀█ █▄░█ █▄█ ▄▄ █▀ █▀▀ ▄▀█ █▄░█ █▄░█
+      █▀█ █░▀█ █▄█ █░▀█ ░█░ ░░ ▄█ █▄▄ █▀█ █░▀█ █░▀█ 
                      """+bcolors.ENDC+"""(The Multi-Tool Web Vulnerability Scanner)
                           """)
         print bcolors.ENDC
