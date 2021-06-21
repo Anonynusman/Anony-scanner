@@ -32,6 +32,7 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 git clone https://github.com/Anonynusman/Anony-scanner
 
 ###Usage:
+
 *cd Anony-scanner*
 
 *chmod +x scan.py*
