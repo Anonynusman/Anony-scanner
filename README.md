@@ -1,4 +1,4 @@
-# Anony-Scanner
+# Anony-scanner
 Anony-Scanner - Pentest the web
 
 Author: [Anonynusman]
@@ -13,7 +13,7 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 * Modules(included): Colorama, BeautifulSoup
 
 ###Description:
-**Anony-Scanner** is an All-In-One Tool for Penetration Testing. This is specially programmed for Penetration Testers and Security Researchers to make their job easier, instead of launching different tools for performing different task. **D-TECT** provides multiple features and detection features which gather target information and finds different flaws in it. 
+**Anony-scanner** is an All-In-One Tool for Penetration Testing. This is specially programmed for Penetration Testers and Security Researchers to make their job easier, instead of launching different tools for performing different task. **Anony-scanner** provides multiple features and detection features which gather target information and finds different flaws in it. 
 
 ###Features:
 * Sub-domain Scanning
@@ -29,11 +29,13 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 * User-Friendly UI
 
 ###Installation
-git clone https://github.com/Anonynusman/Anony-Scanner
+git clone https://github.com/Anonynusman/Anony-scanner
+
 ###Usage:
-cd Anony-Scanner
+cd Anony-scanner
 python scan.py
 
 
 # Special Thanks To:
 * Honey Hacked
+
