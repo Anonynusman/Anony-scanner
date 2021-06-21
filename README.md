@@ -18,12 +18,12 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 ###Features:
 * Sub-domain Scanning
 * Port Scanning
-* Wordpress Scanning
-* Wordpress Username Enumeration
-* Wordpress Backup Grabbing
+* WordPress Scanning
+* WordPress Username Enumeration
+* WordPress Backup Grabbing
 * Sensitive File Detection
 * Same-Site Scripting Scanning
-* Click Jacking Detection
+* Clickjacking Detection
 * Powerful XSS vulnerability scanning
 * SQL Injection vulnerability scanning
 * User-Friendly UI
@@ -32,13 +32,13 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 git clone https://github.com/Anonynusman/Anony-scanner
 
 ###Usage:
-*cd Anony-scanner
+*cd Anony-scanner*
 
-*chmod +x scan.py
+*chmod +x scan.py*
 
-*python2 scan.py
+*python2 scan.py*
 
 
 # Special Thanks To:
-  *Honey Hacked
+  *Honey Hacked*
 
